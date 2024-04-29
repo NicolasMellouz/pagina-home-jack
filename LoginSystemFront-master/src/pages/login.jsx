@@ -42,7 +42,7 @@ function Login() {
     };
     return (
         <div className='div'>
-            <h1>Login System de Matheus</h1>
+            <h1>Login System de Nicolas</h1>
             <form>
                 <label>
                     Usuário:
